@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dwightdurmon
+- 👀 I’m interested in coding in various languages including Java, Javascript/Electron, PHP, Python, Go, Groovy, Bash, and others...
+- 🌱 I’m currently learning Electron/Javascript as well as Java to update a custom launcher and make Minecraft mods for the family.
+- 💞️ I’m looking to collaborate on ... well anything.  I'm always open to learning more code and better coding practices.
+- 📫 How to reach me...  I can be found on Linked in at https://www.linkedin.com/in/dwightsdurmon/
