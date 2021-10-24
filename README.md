@@ -22,3 +22,8 @@
 <img src='https://img.shields.io/badge/Language-Javascript-lightgrey'></li>
 <img src='https://img.shields.io/badge/Language-PHP-lightgrey'></li>
 <img src='https://img.shields.io/badge/Language-Perl-lightgrey'></li>
+<img src='https://img.shields.io/badge/Language-Go-lightgrey'></li>
+<img src='https://img.shields.io/badge/Language-Python-lightgrey'></li>
+<img src='https://img.shields.io/badge/Language-Groovy-lightgrey'></li>
+<img src='https://img.shields.io/badge/Language-HTML-lightgrey'></li>
+<img src='https://img.shields.io/badge/Language-CSS-lightgrey'></li>
