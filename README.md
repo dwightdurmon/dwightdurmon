@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/dwightdurmon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dwightdurmon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dwightsdurmon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwightsdurmon" height="30" width="40" /></a>
-<a href="https://discord.gg/Elennight#2290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elennight#2290" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/212012107401527296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elennight#2290" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
