@@ -16,7 +16,9 @@
 <br/>
 <hr>
 <h3 align="left">Things I'm familiar with:</h3>
-<h4 aligh="left">Languages<h2>
-<ul>
-<li><img src='https://img.shields.io/badge/Language-Java-lightgrey'></li>
-<ul>
+<h4 aligh="left">Languages<h4>
+<img src='https://img.shields.io/badge/Language-Bash'></li>
+<img src='https://img.shields.io/badge/Language-Zsh'></li>
+<img src='https://img.shields.io/badge/Language-Javascript-lightgrey'></li>
+<img src='https://img.shields.io/badge/Language-PHP-lightgrey'></li>
+<img src='https://img.shields.io/badge/Language-Perl-lightgrey'></li>
