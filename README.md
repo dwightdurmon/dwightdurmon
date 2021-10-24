@@ -13,9 +13,10 @@
 <a href="https://linkedin.com/in/dwightsdurmon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwightsdurmon" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/212012107401527296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Elennight#2290" height="30" width="40" /></a>
 </p>
-
+<br/>
+<hr>
 <h3 align="left">Things I'm familiar with:</h3>
-<h2 aligh="left">Languages<h2>
+<h4 aligh="left">Languages<h2>
 <ul>
 <li><img src='https://img.shields.io/badge/Language-Java-lightgrey'></li>
 <ul>
