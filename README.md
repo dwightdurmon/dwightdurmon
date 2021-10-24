@@ -27,3 +27,7 @@
 <img src='https://img.shields.io/badge/Language-Groovy-lightgrey'></li>
 <img src='https://img.shields.io/badge/Language-HTML-lightgrey'></li>
 <img src='https://img.shields.io/badge/Language-CSS-lightgrey'></li>
+<br/>
+<h4 aligh="left">Tools<h4>
+<img src='https://img.shields.io/badge/Tool-AWS-lightgrey'></li>
+<img src='https://img.shields.io/badge/Tool-Jenkins-lightgrey'></li>
