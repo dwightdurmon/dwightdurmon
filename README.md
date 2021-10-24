@@ -16,18 +16,23 @@
 <br/>
 <hr>
 <h3 align="left">Things I'm familiar with:</h3>
-<h4 aligh="left">Languages<h4>
-<img src='https://img.shields.io/badge/Language-Bash-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-Zsh-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-Javascript-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-PHP-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-Perl-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-Go-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-Python-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-Groovy-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-HTML-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Language-CSS-lightgrey'><br/>
-<br/>
-<h4 aligh="left">Tools<h4>
-<img src='https://img.shields.io/badge/Tool-AWS-lightgrey'><br/>
-<img src='https://img.shields.io/badge/Tool-Jenkins-lightgrey'><br/>
+<div>
+  <div>
+    <h4 aligh="left">Languages<h4>
+    <img src='https://img.shields.io/badge/Language-Bash-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-Zsh-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-Javascript-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-PHP-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-Perl-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-Go-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-Python-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-Groovy-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-HTML-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Language-CSS-lightgrey'><br/>
+  </div>
+  <div>
+    <h4 aligh="left">Tools<h4>
+    <img src='https://img.shields.io/badge/Tool-AWS-lightgrey'><br/>
+    <img src='https://img.shields.io/badge/Tool-Jenkins-lightgrey'><br/>
+  </div>
+</div>
